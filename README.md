@@ -9,7 +9,7 @@ OWAF Core is a lightweight performance oriented ASGI web application framework. 
 # Two simple exemple
 Using the OWAF approach (aimed at bigger project).
 ```python
-from OWAF import OnlyWebAsync, Shard
+from OWAF import Shard
 
 def somewrapper(arg1: int):
     def wrapper(func: callable):
