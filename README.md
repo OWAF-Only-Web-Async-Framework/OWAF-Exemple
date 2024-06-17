@@ -1,3 +1,7 @@
+EXEMPLE
+--------
+This repo is used to diplay a small example of usage of OWAF to give an idea to what can be done with it
+
 # <img src="https://github.com/OWAF-Only-Web-Async-Framework/OWAFCore/assets/63317845/a93d4333-7f2b-4b8c-bda2-ff16a856d6a5" alt="" width="25"/> OWAF-core
 
 OWAF Core is a lightweight performance oriented ASGI web application framework. It is designed to fullfill needs of scalability and modularity while staying as easy to understand as possible and enforcing typing and documenting as much as possible while not being too intrusive. This project started as an extension of quart "without flask" but as quickly derived from it. The philosophy of this framework is makes you able to still use all the things you know about Flask and Quart while also giving new approches for bigger applications that are segmented and/or modulable.
